@@ -23,7 +23,7 @@ function LandingPage() {
                     variant="outline-primary"
                     size="lg"
                   >
-                    Login
+                    Sign Up
                   </Button>
                 </a>
               </div>
